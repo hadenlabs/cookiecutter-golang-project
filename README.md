@@ -12,70 +12,50 @@
 
   -->
 
- 
-
 # cookiecutter-golang-project
- [![Build Status](https://travis-ci.org/hadenlabs/cookiecutter-golang-project.svg?branch=main)](https://travis-ci.org/hadenlabs/cookiecutter-golang-project) [![Issues](https://img.shields.io/github/issues/hadenlabs/cookiecutter-golang-project.svg)](https://github.com/hadenlabs/cookiecutter-golang-project/issues) [![Latest Release](https://img.shields.io/github/release/hadenlabs/cookiecutter-golang-project.svg)](https://travis-ci.org/hadenlabs/cookiecutter-golang-project/releases) [![Beacon](https://ga-beacon.appspot.com/UA-65019326-1/github.com/hadenlabs/cookiecutter-golang-project/readme)](https://github.com/hadenlabs/cookiecutter-golang-project)
 
- cookiecutter-golang-project for generate terraform module. 
+[![Build Status](https://travis-ci.org/hadenlabs/cookiecutter-golang-project.svg?branch=main)](https://travis-ci.org/hadenlabs/cookiecutter-golang-project) [![Issues](https://img.shields.io/github/issues/hadenlabs/cookiecutter-golang-project.svg)](https://github.com/hadenlabs/cookiecutter-golang-project/issues) [![Latest Release](https://img.shields.io/github/release/hadenlabs/cookiecutter-golang-project.svg)](https://travis-ci.org/hadenlabs/cookiecutter-golang-project/releases) [![Beacon](https://ga-beacon.appspot.com/UA-65019326-1/github.com/hadenlabs/cookiecutter-golang-project/readme)](https://github.com/hadenlabs/cookiecutter-golang-project)
+
+cookiecutter-golang-project for generate terraform module.
 
 ---
 
-
 This project is part of our comprehensive [hadenlabs](https://hadenlabs.com) cookiecutter for modules terraform.
 
-
-   It's 100% Open Source and licensed under the [MIT](LICENSE).   
-
-
-
-
-
-
+It's 100% Open Source and licensed under the [MIT](LICENSE).
 
 ## Requirements
-
 
 List of applications:
 
 - [Pyenv](https://github.com/pyenv/pyenv)
 - [Docker](https://www.docker.com/)
 
-
-
 ## Installation
+
 ### Pip users
 
 ```{.bash}
 pip install cookiecutter
 ```
+
 ### Homebrew users
 
 ```{.bash}
 brew install cookiecutter
 ```
+
 ### Windows or Pipenv users
 
 ```{.bash}
 pipenv install cookiecutter
 ```
 
-
-
-
 ## Usage
 
 ```bash
 cookiecutter gh:hadenlabs/cookiecutter-golang-project
 ```
-
-
-
-
-
-
-
- 
 
 ## Help
 
@@ -91,8 +71,7 @@ Please use the [issue tracker](https://github.com/hadenlabs/cookiecutter-golang-
 
 ### Developing
 
-If you are interested in being a contributor and want to get involved in developing this project or [help out](https://hadenlabs.com)
-with our other projects, we would love to hear from you! Shoot us an [email](mailto:support@hadenlabs.com).
+If you are interested in being a contributor and want to get involved in developing this project or [help out](https://hadenlabs.com) with our other projects, we would love to hear from you! Shoot us an [email](mailto:support@hadenlabs.com).
 
 In general, PRs are welcome. We follow the typical "fork-and-pull" Git workflow.
 
@@ -108,16 +87,9 @@ In general, PRs are welcome. We follow the typical "fork-and-pull" Git workflow.
 
 Releases are managed using github release feature. We use \[Semantic Versioning\](<http://semver.org>) for all the releases. Every change made to the code base will be referred to in the release notes (except for cleanups and refactorings).
 
-
-
 ## Copyright
 
 Copyright © 2018-2021 [Hadenlabs](https://hadenlabs.com)
-
-
- 
-
-
 
 ## License
 
@@ -131,11 +103,7 @@ The above copyright notice and this permission notice shall be included in all c
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
-Source: <https://opensource.org/licenses/MIT> 
-
-
-
-
+Source: <https://opensource.org/licenses/MIT>
 
 ## Trademarks
 
@@ -145,15 +113,10 @@ All other trademarks referenced herein are the property of their respective owne
 
 This project is maintained and funded by [Hadenlabs][https://hadenlabs.com]. Like it? Please let us know at <support@hadenlabs.com>
 
-
-
 ### Contributors
 
-|  [![Luis Mayta][luismayta_avatar]][luismayta_homepage]<br/>[Luis Mayta][luismayta_homepage] |
-|---|
+| [![Luis Mayta][luismayta_avatar]][luismayta_homepage]<br/>[Luis Mayta][luismayta_homepage] |
+| ------------------------------------------------------------------------------------------ |
 
-  [luismayta_homepage]: https://github.com/luismayta
-  [luismayta_avatar]: https://github.com/luismayta.png?size=150
-
-
-
+[luismayta_homepage]: https://github.com/luismayta
+[luismayta_avatar]: https://github.com/luismayta.png?size=150
