@@ -110,6 +110,7 @@ repos:
           - '--list-different'
           - '--config=.github/linters/prettier.config.js'
           - '--ignore-path=.github/linters/.prettierignore'
+        files: \.(ts|tsx|js|jsx|js?(on)|scss|md|y?(a)ml|gql|graphql?(s)|less|mjml)$
         exclude: node_modules
       - id: eslint
         name: eslint
